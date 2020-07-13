@@ -5,6 +5,7 @@ A quick start:
 Find the ProjectApplication and run as "Spring Boot App"
 
 Display:
+
 1, Open the url: http://localhost:8080/swagger-ui.html#!
 you can access to swagger.
 
@@ -12,4 +13,5 @@ you can access to swagger.
 you can access to knife4j.
 
 Implication:
-The rels of available following operation are bound to the response entity separately.
+The refs of available following operations are bound to the response entity separately.
+Each public method within a controller can be refered and added as a link.
